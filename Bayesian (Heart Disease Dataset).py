@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 13 00:01:12 2021
-
-@author: SNB
-"""
-
 import numpy as np
 import pandas as pd
 from pgmpy.estimators import MaximumLikelihoodEstimator
