@@ -2,7 +2,6 @@
 """
 Created on Fri Oct 22 14:49:33 2021
 
-@author: SNB
 """
 
 #import package
