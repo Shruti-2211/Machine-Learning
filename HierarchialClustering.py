@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 13 21:06:33 2021
-
-@author: SNB
-"""
-
 # Hierarchical Clustering
 
 # Importing the libraries
