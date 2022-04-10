@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 13 21:31:11 2021
-
-@author: SNB
-"""
-
 # K-Means Clustering
 
 # Importing the libraries
