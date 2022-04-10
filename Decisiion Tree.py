@@ -2,7 +2,6 @@
 """
 Created on Sun Dec 12 22:58:20 2021
 
-@author: SNB
 """
 
 # Importing the required packages
