@@ -4,6 +4,7 @@
 import matplotlib.pyplot as plt
 from sklearn.datasets import load_iris
 
+
 # Importing the dataset
 iris = load_iris()
 X = iris.data
